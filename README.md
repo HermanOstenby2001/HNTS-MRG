@@ -1,3 +1,5 @@
+Below follows my solution to the "Head and Neck Tumor Segmentation for MR-Guided Applications"-challenge.
+
 **Training Dataset for HNTSMRG 2024 Challenge**
 
 &nbsp;
